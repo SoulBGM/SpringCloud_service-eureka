@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: server-eureka
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: HRJ
+Implementation-Vendor-Id: com.ycw
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
